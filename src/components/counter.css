@@ -1,0 +1,15 @@
+.counter {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: chartreuse;
+  font-family: sans-serif;
+  font-size: 4rem;
+  text-align: center;
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.counter .col {
+  background: white;
+}
